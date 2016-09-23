@@ -1,0 +1,3 @@
+ans 1)A dialog is a small window that prompts the user to make a decision or enter additional information. A dialog does not fill the screen and is normally used for modal events that require users to take an action before they can proceed.
+ans 2)create a custom dialog by creating a custom layout and then use dialog class and setcontentview method of it to link your layout with application.
+ans 3)we have a class Alertdialog.builder,datepickerdialog using these classes we can use existing dialogs.
